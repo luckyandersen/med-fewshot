@@ -1,0 +1,14 @@
+{
+  "pneumonia_resnet18_pt_f0.05_s0": {
+    "silhouette_feature_space": 0.27585217356681824
+  },
+  "pneumonia_resnet18_scratch_f0.05_s0": {
+    "silhouette_feature_space": 0.5354493856430054
+  },
+  "pneumonia_resnet18_pt_f1.0_s0": {
+    "silhouette_feature_space": 0.37957146763801575
+  },
+  "pneumonia_resnet18_scratch_f1.0_s0": {
+    "silhouette_feature_space": 0.5585267543792725
+  }
+}
