@@ -1,0 +1,8 @@
+torch>=2.5
+torchvision
+timm
+medmnist
+scikit-learn
+pandas
+matplotlib
+python-docx
